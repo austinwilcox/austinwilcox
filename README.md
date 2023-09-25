@@ -18,7 +18,7 @@ Senior Software Developer - The Arbinger Institute - Sep. 2020 - Present
 - Worked collaboratively with a small team of developers, wearing multiple hats to ensure the success of the project and becoming highly versatile in different environments.
 - Consistently met deadlines and delivered high-quality software, earning recognition from management and stakeholders for outstanding performance.
 
-Programmer - Weber Basin Water Conservancy District - Sep. 2018 - 2020
+Programmer - Weber Basin Water Conservancy District - Nov. 2018 - Sep. 2020
 - Built IOS mobile applications in Swift for staff to manage water meters at locations all across Davis and Weber counties. With backend REST API written in ASP.NET.
 - Built and maintained inventory management system that replaced a paper and pen method. This allowed the district to keep better track of supplies going in and out thus saving the district money from unnecessary purchases.
 ## Technologies and Languages
