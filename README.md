@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning more Data Structures and Algorithms, GO, and Deno are my hobby languages/runtimes.
 - ⚡ Fun fact: I use neovim, and I build custom handwired keyboards. My current daily driver is a Dactyl Manuform that I 3d printed and handwired: [Imgur](https://i.imgur.com/JaExLg3.jpg)
 
+[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austin)](https://github.com/austin/github-readme-stats)
+
 [me@theaustinwilcox.com](mailto:me@theaustinwilcox.com)
 
 [Linkedin](https://www.linkedin.com/in/austin-wilcox-3193a4106/)
