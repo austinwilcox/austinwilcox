@@ -17,7 +17,7 @@
 [Github](https://github.com/austinwilcox)
 
 As a skilled developer with a passion for writing software, I am excited to bring my expertise to the table. With a strong background in both front-end and back-end development, I have honed my ability to create innovative and efficient solutions for complex problems.
-## 💻 Work Experience
+## 🏢 Work Experience
 Senior Software Developer - The Arbinger Institute - Sep. 2020 - Present
 - Architected and built the API service using Dotnet 6, implementing REST design patterns, and a service repository structure.
 - Provided extensive work in building the front-end application using React with JavaScript and TypeScript.
