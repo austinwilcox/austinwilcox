@@ -36,7 +36,7 @@ Programmer - Weber Basin Water Conservancy District - Nov. 2018 - Sep. 2020
 - Neovim
 - Linux
 - Handwiring Custom Keyboards
-## ℹ️ Open Source Contributions
+## Open Source Contributions
 - [Disconnected](https://github.com/austinwilcox/disconnected): A CLI tool to spin up pre-configured tmux sessions.
 - [Hex 2 RGBA](https://github.com/austinwilcox/hex2rgba): A neovim plugin to convert hex values to RGBA.
-- [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio): Helped in PR to supply vim keybindings to the editor experience, and working now to add vimrc support.
+- [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio): Helped in PR to supply vim keybindings to the editor experience, and added basic vimrc support.
