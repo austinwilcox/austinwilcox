@@ -16,7 +16,8 @@
 
 [Github](https://github.com/austinwilcox)
 
-As a skilled developer with a passion for writing software, I am excited to bring my expertise to the table. With a strong background in both front-end and back-end development, I have honed my ability to create innovative and efficient solutions for complex problems.
+As a seasoned developer driven by a fervor for crafting software solutions, I am eager to elevate your team with my exceptional skills. My expertise spans both front-end and back-end development, showcasing a proficiency in conceiving and implementing innovative solutions for intricate challenges. My commitment to excellence extends beyond the workplace – I am an avid contributor to Open Source projects, constantly pushing the boundaries of my skills. In my personal endeavors, I revel in creating inventive projects that not only enhance my workflow but also have the potential to streamline processes for others. I am deeply passionate about leveraging software to solve real-world problems, making me a dedicated and forward-thinking developer poised to make a lasting impact.
+
 ## 🏢 Work Experience
 Senior Software Developer - The Arbinger Institute - Sep. 2020 - Present
 - Architected and built the API service using Dotnet 6, implementing REST design patterns, and a service repository structure.
